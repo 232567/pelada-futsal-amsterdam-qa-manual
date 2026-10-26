@@ -62,3 +62,29 @@ Foram documentados **16 casos de teste funcionais** no Jira.
 | CT-003 | PFA-4 | Validar seleção da posição do jogador |
 | CT-004 | PFA-5 | Validar nível de jogabilidade permitido |
 | CT-005 | PFA-6 | Validar
+## 📚 Documentação do Projeto
+
+A documentação do projeto Pelada Futsal Amsterdam foi organizada utilizando Jira e Confluence.
+
+### 📋 Documentos disponíveis
+
+- **Plano de Testes:** objetivos, escopo, estratégia e critérios de execução.
+- **Cenários BDD:** dois cenários escritos em Gherkin, contemplando testes positivos e negativos.
+- **Ciclo de Vida de um Defeito:** etapas de identificação, registro, correção e reteste, incluindo um exemplo hipotético.
+- **Casos de Teste:** 16 casos de teste funcionais documentados no Jira.
+
+### 🔗 Links da documentação
+
+- [Plano de Testes](https://jeversonborges.atlassian.net/wiki/spaces/PFAQM/pages/17760257)
+- [Cenários de Teste BDD](https://jeversonborges.atlassian.net/wiki/spaces/PFAQM/pages/17858563)
+- [Ciclo de Vida de um Defeito](https://jeversonborges.atlassian.net/wiki/spaces/PFAQM/pages/17662179)
+- [História de Usuário PFA-1](https://jeversonborges.atlassian.net/browse/PFA-1)
+
+### 📊 Status do projeto
+
+- Casos de teste documentados: **16**
+- Cenários BDD documentados: **2**
+- Casos executados: **0**
+- Status: **Documentação concluída; execução pendente**
+
+> Este projeto tem finalidade educacional. Os testes ainda não foram executados em uma aplicação real.
